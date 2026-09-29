@@ -1,22 +1,140 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-# 💫 About Me:
-🔭 I’m currently working on Building Projects and Core Concepts<br>🌱 I’m currently learning REACT JS<br>📫 How to reach me codermhasnain@gmail.com<br>💬 Ask me about HTML 5, CSS 3 , JavaScript , Tailwind , REACT , Bootstrap<br>⚡ Fun fact My friend Always Says that You code like a Philosopher
+# 👋 Hi, I'm Hasnain Khan
 
+### 💻 Frontend Developer | 🚀 Always Learning & Building
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/codermhasnain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codermhasnain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-hasnain-b89840379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codermhasnain@gmail.com) 
+I'm a **Frontend Developer** currently learning new technologies and continuously improving my skills in modern web development.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HasnainCoder550&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=HasnainCoder550&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HasnainCoder550&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy working with frontend technologies and exploring different tools and frameworks to build modern, interactive, and responsive web experiences.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://code-alpha-tasks-my-portfolio.vercel.app/#">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="mailto:codermhasnain@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="./CV.pdf">
+    <img src="https://img.shields.io/badge/📄%20CV-Download%20My%20CV-000000?style=for-the-badge" alt="CV"/>
+  </a>
+</p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
 
+* 💻 I'm a **Frontend Developer**
+* 📚 Currently learning **new technologies**
+* ⚛️ Working with **React**
+* 🎨 Interested in modern UI and frontend development
+* 🚀 Continuously improving my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🎨 UI & CSS Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### 🔥 Services
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+I'm currently exploring **new technologies** and expanding my knowledge in frontend development.
+
+I'm focused on continuously improving my skills and learning new approaches to modern web development.
+
+---
+
+## 🎯 My Focus
+
+```text
+Frontend Development
+        ↓
+HTML • CSS • JavaScript
+        ↓
+React
+        ↓
+Material UI • Bootstrap • Tailwind CSS
+        ↓
+Firebase
+        ↓
+Continuous Learning
+```
+
+---
+
+## 📌 Technologies I Know
+
+| Technology   | Category             |
+| ------------ | -------------------- |
+| HTML         | Frontend             |
+| CSS          | Frontend             |
+| JavaScript   | Programming Language |
+| React        | Frontend Library     |
+| Material UI  | UI Framework         |
+| Bootstrap    | CSS Framework        |
+| Tailwind CSS | CSS Framework        |
+| Firebase     | Services             |
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://code-alpha-tasks-my-portfolio.vercel.app/#">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:codermhasnain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 📄 My CV
+
+<p>
+  <a href="./CV.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20CV-000000?style=for-the-badge" alt="Download CV"/>
+  </a>
+</p>
+
+> Upload your CV as **`CV.pdf`** in the root of your GitHub profile repository.
+
+---
+
+## 🚀 Learning & Growing
+
+> **Learn → Build → Practice → Improve → Repeat**
+
+I'm continuously learning new technologies and improving my frontend development skills.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
